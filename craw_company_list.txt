@@ -1,0 +1,22 @@
+AI_COMPANY_ALIASES = {
+    "OpenAI":
+     ["OpenAI", "오픈AI", "오픈에이아이"],
+    "Google": ["Google", "구글"],
+    "DeepMind": ["DeepMind", "딥마인드"],
+    "Microsoft": ["Microsoft", "마이크로소프트", "MS"],
+    "Amazon": ["Amazon", "아마존"],
+    "Meta": ["Meta", "메타", "페이스북"],
+    "NVIDIA": ["NVIDIA", "엔비디아"],
+    "Anthropic": ["Anthropic", "앤트로픽"],
+    "Mistral": ["Mistral", "미스트랄"],
+    "xAI": ["xAI", "일론 머스크 AI", "일론머스크 AI"],
+    "Cohere": ["Cohere", "코히어"],
+    "Hugging Face": ["Hugging Face", "허깅페이스"],
+    "Stability AI": ["Stability AI", "스테빌리티AI"],
+    "네이버": ["네이버", "Naver", "하이퍼클로바"],
+    "카카오": ["카카오", "Kakao"],
+    "뤼튼": ["뤼튼", "Riiid", "Riiid!"],
+    "업스테이지": ["업스테이지", "Upstage"],
+    "티쓰리큐": ["T3Q", "티쓰리큐"],
+    "솔트룩스": ["솔트룩스", "Saltlux"],
+}
