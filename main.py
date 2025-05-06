@@ -2,11 +2,11 @@ import sys
 from crawler import AITimesCrawler
 from db_manager import PostgresDBManager
 from blog_writer import BlogWriter
+import psycopg2
+import os
+from dotenv import load_dotenv
 
 def get_all_companies_from_db():
-    import psycopg2
-    import os
-    from dotenv import load_dotenv
 
     load_dotenv()
     conn = psycopg2.connect(
