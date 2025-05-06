@@ -12,6 +12,14 @@ AI 관련 최신 뉴스를 자동으로 수집하고, 회사별로 정리해 마
 
 - GPT 프롬프트와 토큰 사용량 및 비용 로그 출력
 
+# 🛠 주요 기술 스택
+
+Selenium + BeautifulSoup: AI 뉴스 웹 크롤링
+
+PostgreSQL + psycopg2: 기사 데이터 저장 및 관리
+
+OpenAI GPT-4 API: 뉴스 기반 블로그 글 생성
+
 # 📁 프로젝트 구조
 ```
 .
